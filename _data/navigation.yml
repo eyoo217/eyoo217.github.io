@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
   
   - title: "Resume"
     url: /Resume/
@@ -9,7 +7,8 @@ main:
   - title: "CV"
     url: files/resume.pdf/
 
-    
+  #- title: "Portfolio"
+  #  url: /portfolio/
   #- title: "Publications"
   #  url: /publications/
 
