@@ -1,64 +1,46 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#### technical skills: python, java, javascript, golang
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### education
+depaul university (2023-2027)
+- computer science + software development, bs
+- relevant coursework: discrete mathematics i & ii, data structures i & ii, data analysis
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+niles north high school (2019-2023)
+- cyberpatriot team founder (1st place silver tier, rank 9 il)
+- coding club
+- relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### work experience
+android development intern @ eel electric solutions & technologies
+- software development team
+- developed login landing page with kotlin & android studio
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+technology department intern @ niles township d219 
+- resolved and answered support tickets
+- conducted repairs on student devices
+- enrolled 100+ student devices into school device database
+
+## projects
+### gigamap - port scanning tool
+[repo link](https://github.com/eyoo217/gigamap)
+
+- gigamap is a port scanner inspired by the nmap scanner that returns any open ports on a network.
+- gigamap takes in a website url or an ip address as a parameter and returns open ports and the ports status.
+- to run, install the main.go file make sure go is installed (you can test this by typing go version) run "go run main.go"
+- now you can scan ports with ease using gigamap!
+- submitted to hackillinois 24'
+
+## links
+
+- [linkedin](https://linkedin.com/in/elotmusk/)
+- [twitter](https://x.com/elotval)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
