@@ -12,6 +12,7 @@ redirect_from:
 ### education
 depaul university (2023-2027)
 - computer science + software development, bs
+- ec: mens volleyball club, climbing club, ACE, Kalahi.
 - relevant coursework: discrete mathematics i & ii, data structures i & ii, data analysis
 
 niles north high school (2019-2023)
