@@ -20,6 +20,10 @@ niles north high school (2019-2023)
 - relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
 ### work experience
+technology intern @ kodai capital management
+- designed and implemented a data freshness test in SQL to ensure relevancy and accuracy across all databases.
+- developed asset management strategy for New York and Chicago offices.
+
 android development intern @ eel electric solutions & technologies
 - software development team
 - developed login landing page with kotlin & android studio
