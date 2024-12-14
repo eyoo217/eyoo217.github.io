@@ -21,7 +21,7 @@ niles north high school (2019-2023)
 
 ### work experience
 technology intern @ kodai capital management
-- designed and implemented a data freshness test in SQL to ensure relevancy and accuracy across all databases.
+- designed and implemented a data freshness test in SQL to ensure relevance and accuracy across all databases.
 - developed asset management strategy for New York and Chicago offices.
 
 android development intern @ eel electric solutions & technologies
