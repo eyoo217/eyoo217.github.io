@@ -21,6 +21,10 @@ niles north high school (2019-2023)
 - relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
 ### work experience
+student researcher - instrument building team @ depaul university
+- conducting chemistry computation research under professor griffin graham
+- building spectrometer control software
+
 technology intern @ kodai capital management
 - designed and implemented a data freshness test in SQL to ensure relevance and accuracy across all databases.
 - developed asset management strategy for New York and Chicago offices.
@@ -35,6 +39,27 @@ technology department intern @ niles township d219
 - enrolled 100+ student devices into school device database
 
 ## projects
+### DePaul Purity Test - rice purity clone
+[repo link](https://github.com/eyoo217/depaulpuritytest)
+
+- rice purity test clone customized for depaul students
+- 100 questions based on depaul student life and chicago living
+- 50+ user submissions within an hour of launch and counting!
+
+### HotGirlWalk - travel optimizer
+[repo link](https://github.com/eyoo217/HotGirlWalk)
+
+- hotgirl walk is a travel optimizer for efficient travel
+- uber fare estimate algorithm for predicting the price of uber fares based on distance and duration
+- interactive google map with routes, travel times, and distances 
+
+### DormMate - student marketplace
+[repo link](https://github.com/eyoo217/dormmate-test)
+
+- dormmate is a marketplace tailored for college students
+- users with .edu emails can buy and sell items to other students on campus
+- built with primarily React and Flask. 
+
 ### gigamap - port scanning tool
 [repo link](https://github.com/eyoo217/gigamap)
 
