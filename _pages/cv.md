@@ -21,6 +21,10 @@ niles north high school (2019-2023)
 - relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
 ### work experience
+it infrastructure and operations intern @ wintrust financial
+- assisted in cloud migration strategy
+- built unit tests for .NET codebase
+
 student researcher - instrument building team @ depaul university
 - conducting chemistry computation research under professor griffin graham
 - building spectrometer control software
@@ -72,5 +76,5 @@ technology department intern @ niles township d219
 ## links
 
 - [linkedin](https://linkedin.com/in/elotmusk/)
-- [twitter](https://x.com/elotval)
+
   
